@@ -259,19 +259,15 @@ export const compdata = [
     alum__link: "",
     about: (
       <div>
-        In the areas of investment banking, securities, investment management,
-        and consumer banking, The <b>Goldman Sachs Group, Inc.</b> is a
-        preeminent international financial organisation that offers a wide range
-        of financial services to a sizable and varied clientele that consists of
-        businesses, financial institutions, governments, and private citizens.
-        Utilizing its more than 150 years of experience working with the finest
-        businesses, entrepreneurs, and organisations in the world, Goldman Sachs
-        mobilises its personnel and assets to increase client success, increase
-        individual prosperity, and hasten economic growth for all. According to
-        Goldman Sachs, collaboration, teamwork, and honesty provide the ideal
-        environment for employees to provide the best results for their clients.
-        It looks for individuals who will flourish in this setting, prioritising
-        communication, passion, and rapid thinking over certain qualifications.
+        Goldman Sachs Group is a global investment banking, securities, and investment
+        management organization that serves a diverse customer base consisting of financial
+        institutions, corporations, governments, and individuals. It is headquartered in the
+        United States. Goldman Sachs India has offices in Mumbai, Bengaluru, and
+        Hyderabad.<br />
+        The company offers exciting work opportunities to professionals in divisions such as
+        Business Finance, Data Analytics, Investment Banking, Engineering, Marketing and
+        Communications, Legal, etc. By revenue, Goldman Sachs is the second-largest bank
+        in the world and is counted as the systemically important financial institution by 
       </div>
     ),
     jd: "Job Profile: Golman Sachs Summer Intern",
@@ -284,7 +280,11 @@ export const compdata = [
             </b>
             <br />
             The Goldman Sachs online assessment test is divided into the
-            following sections: <br /> <br />
+            two rounds: <br /> <br />
+            <h2>Round 1(Written round) </h2> <br /> <br />
+            Number Of Questions: 66 MCQs
+            Time Duration: 1 hour and 30 min
+            Marking Scheme: +5 for correct and –2 for incorrect <br /> <br />
             <b>• Quantitative Aptitude:</b> It contains questions related to
             Numerical Computations and Numerical Reasoning. Prepare questions
             related to Numbers, Profit and Loss, Permutation and Combination,
@@ -301,6 +301,21 @@ export const compdata = [
             efficiently: Improvement and Correction of Sentences, Articles and
             Fill in the blanks. <br />
             <br />
+            <h2>Round 2(Technical Test) </h2><br /> <br />
+            Number Of Questions: 20 (15 MCQs & 5 Subjective)
+            Time Duration: 2 hour and 15 min
+            Marking Scheme: +5 for correct, –2 for incorrect & +10 for correct subjective.
+           <li>• Coding</li>
+           <li>• Quantitative Aptitude</li>
+           <li>• Computer Science MCQ</li>
+           <li>• Advanced Programming</li>
+           <li>• Subjective</li> <br /><br />
+           Round 3(Interview Process):  <br /><br />
+           The candidates will have to face three Goldman Sachs interview rounds for the
+          assessment of their technical skills and analytical abilities. They are:
+          <li>• Technical interview 1</li>
+          <li>• Technical-cum-managerial interview 2</li>
+          <li>• Technical + HR interview 3 </li>
             <b>• Technical section:</b> Technical Test will contain questions
             related to the Coding Aptitude(Advance), Computer science,
             Competitive Programming and Subjective Questions.
@@ -433,8 +448,17 @@ export const compdata = [
         <br/>
         InfyTQ is a free platform open to all engineering students in their third and fourth year across India. This Infosys Certification will test your knowledge in programming and databases. Infosys started taking the InfyTQ exam to recruit students for Infosys Certification Program.
         <br/><br/>
-        <b>Eligibility Criteria</b>:
-        You should either be a B.E., B. Tech, M.E., M. Tech., M.Sc., MCA, or a MCM student graduating in 2024.
+        <b>Eligibility Criteria</b>:<br />
+        <ul>Freshers should not have any active backlogs to get invitations for an Infosys Interview.
+        They should additionally have more than 68% or 6/10 in their Graduation/Post
+        Graduation degree. In addition, all freshers must have above 60% marks in their X and
+       XII to meet educational eligibility. Accepted streams are as follows:
+       ♦ BE/BTech/ME/MTech: All streams
+       ♦ MCA
+      ♦ MSc: Computer Science, Electronics, Mathematics, Physics, and Statistics
+       Experienced candidates need to have the required experience in the relevant field
+      apart from fulfilling the academic criteria.
+      </ul>
         <br/><br/>
         <b>Examination Process: </b><br/>
         Infosys Certification comprises three examination rounds: <br/><br/>
@@ -477,6 +501,25 @@ export const compdata = [
         <br/>
 
       {/* ------------------------------------------<AJ>----------------------------------------------------- */}
+      <h1><b>RECRUITMENT PROCESS</b></h1>
+      <br />
+      <h2>Online Test:</h2>
+      <br />
+      You need to qualify for an exam containing 54 questions; there is no negative marking.
+      These tests are there to assess aptitude skills. The time limit for the exam will be 100
+      minutes, and you can give the test using your internet browser. 
+      <br />
+      <h2>Technical Interview Round:</h2>
+      <br />
+      This Infosys interview will involve lots of technical questions. Infosys will assess your
+      programming language knowledge, such as C, C++, or Java. Your technical skills and
+      technical knowledge will matter, as they may ask you to write programs. You also need
+      to have sound knowledge about the levels of programming languages and objectoriented programming.
+      You can also expect academic type of questions in the technical interview. For example,
+      they may ask about your projects and internships. These test your academic excellence
+      and technical skills. Finally, they will ask questions about your interests. Of course, it
+      would help if you always were an expert in the area of interest. 
+
         <h2>HR Interview</h2>
         <br />
         If you pass the technical interview, you will be invited to the HR
@@ -486,6 +529,12 @@ export const compdata = [
         scrutiny in this situation. Some queries about the Infosys corporation
         must be anticipated. Be prepared to answer any inquiries meant to gauge
         your sincerity in your application for the position.
+        <h2>InfyTQ </h2>
+        <br />
+        InfyTQ is a free platform open to all engineering students in their third and fourth year
+        across India. This Infosys Certification will test your knowledge in programming and
+        databases. Infosys started taking the InfyTQ exam to recruit students for Infosys
+        Certification Program. 
       </div>
     ),
   },
